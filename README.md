@@ -22,7 +22,7 @@ I use GitHub to Uplode my Stuff for Free so yeah idk
 
 ### 📊 Stats
 
-![Tatze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyamedis&show_icons=true&theme=catppuccin_mocha)
+![Tatze's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4tze&show_icons=true&theme=catppuccin_mocha)
 
 #
 
