@@ -27,4 +27,4 @@ I use GitHub to Uplode my Stuff for Free so yeah idk
 
 #
 
-[website]: https://tatze.de
+[website]: https://t4tze.de
