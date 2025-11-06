@@ -1,6 +1,6 @@
 # 🐾 Tatze
 
-I use GitHub to Uplode my Stuff for Free so yeah idk
+Everything that goes up must come down
 
 ---
 
