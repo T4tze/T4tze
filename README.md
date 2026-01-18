@@ -19,11 +19,6 @@ Everything that goes up must come down
 
 <br />
 
-#
-
-### 📊 Stats
-
-![Tatze's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4tze&show_icons=true&theme=catppuccin_mocha)
 
 #
 
